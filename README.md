@@ -1,4 +1,4 @@
-# chopperexample
+# OmdbChopperMobx
 
 A new Flutter project.
 
@@ -6,7 +6,7 @@ A new Flutter project.
 
 1. run flutter packages get
 2. run flutter run 
-3. output is in console
+
 
 # Issues
 
@@ -15,4 +15,5 @@ url is appended with '/' automatically, it has to be changed in the generated fi
 # Benifits
 
 Typesafety can be achieved with a single change unlike http.
-# chopperMobX
+State management is easy.
+
